@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-  <name>FirstCXF-0.0.1-SNAPSHOT</name>
+  <name>FirstCXF</name>
   <comment>Simple CXF Java-first SOAP project using Spring configuration. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
   <projects/>
   <buildSpec>
